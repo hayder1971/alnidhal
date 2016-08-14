@@ -472,13 +472,14 @@ h1, h2, h3, h4, h5, h6 {
   .fh5co-cover .fh5co-cover-hero .fh5co-cover-thumb {
     height: 300px;
     width: 100%;
+    margin: 0px auto 40px auto;
   }
   .fh5co-cover .fh5co-cover-hero .desc-thumb {
     position: absolute;
     bottom: 0;
     left: 0;
     right: 0;
-    padding: 40px auto;
+    padding: 40px;
     background: rgba(0, 0, 0, 0.2);
   }
   .fh5co-cover .fh5co-cover-hero .desc-thumb p {
